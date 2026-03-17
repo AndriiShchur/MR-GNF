@@ -202,3 +202,26 @@ If you use this code, please consider citing the relevant datasets and papers.
 
 ## License
 This repository is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
+
+---
+
+## 📄 Paper
+
+[![arXiv](https://img.shields.io/badge/arXiv-2603.13563-b31b1b.svg)](https://arxiv.org/abs/2603.13563)
+
+**MR-GNF: Multi-Resolution Graph Neural Forecasting on Ellipsoidal Earth Meshes for Efficient Regional Weather Prediction**
+
+> A multi-resolution graph neural network for efficient regional weather forecasting on ellipsoidal Earth meshes.
+
+📑 https://arxiv.org/abs/2603.13563  
+📄 https://arxiv.org/pdf/2603.13563.pdf
+
+If you find this work useful, please consider citing:
+
+```bibtex
+@article{shchur2026mrgnf,
+  title={MR-GNF: Multi-Resolution Graph Neural Forecasting on Ellipsoidal Earth Meshes for Efficient Regional Weather Prediction},
+  author={Shchur, Andrii and Skarga-Bandurova, Inna},
+  year={2026},
+  journal={arXiv preprint arXiv:2603.13563}
+}

@@ -53,10 +53,6 @@ repo/
 └─ README.md
 ```
 
-> English‑annotated copies of the notebooks are also available (suffix `_en.ipynb`).
-
----
-
 ## Installation
 
 ### 1) Python & PyTorch
